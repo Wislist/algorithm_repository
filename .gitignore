@@ -1,1 +1,5 @@
 build/
+.vscode
+/acwing/.cph
+/leetcode/.cph
+/luogu/.cph
